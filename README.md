@@ -21,3 +21,13 @@ to go back to the head?
 
 Why might you want to reset your files back to a previous commit?
 in case I made a mistake
+
+Commit 3 will be the following questions:
+What command do you use to create a branch?
+git checkout -b branch name
+
+What command do you use to use a different branch?
+git switch -c new branch
+
+Why would you want to use a branch other than the default master?
+to start coding the feature I am responsible for delivering
